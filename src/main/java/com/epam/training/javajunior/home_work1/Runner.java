@@ -1,8 +1,8 @@
-package com.epam.training.javajunior.task1;
+package com.epam.training.javajunior.home_work1;
 
 import java.util.Scanner;
 
-import static com.epam.training.javajunior.task1.BitHandlerUtils.*;
+import static com.epam.training.javajunior.home_work1.BitHandlerUtils.*;
 
 public class Runner {
     public static void main(String[] args) {

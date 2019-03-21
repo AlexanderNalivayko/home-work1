@@ -1,4 +1,4 @@
-package com.epam.training.javajunior.task1;
+package com.epam.training.javajunior.home_work1;
 
 public class BitHandlerUtils {
 
